@@ -12,7 +12,7 @@
 
         <item name="colorAccent">@color/accent_dialog</item>
         <item name="android:textColorPrimary">@color/primary_text_dialog</item>
-        <item name="android:windowBackground">@drawable/buttonshape</item>
+        <item name="android:windowBackground">@drawable/button</item>
     </style>
 
 </resources>
